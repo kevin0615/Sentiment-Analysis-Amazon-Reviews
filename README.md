@@ -1,4 +1,4 @@
-# Sentiment-analysis-Amazon-reviews
+# Sentiment-Analysis-Amazon-reviews
 
 This project is a short introduction to VADER, the NLTK module that provides sentiment scores based on words used.
 
