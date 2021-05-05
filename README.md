@@ -11,4 +11,3 @@ To view the source code visit https://www.nltk.org/_modules/nltk/sentiment/vader
 
 In this mini project I analyze some Amazon and movie reviews. The Amazon reviews dataset contains 10,000 Amazon reviews. 
 Like the movie reviews dataset, it is labeled as either "pos" (positive) or "neg" (negative). At the end we'll determine the accuracy of our sentiment analysis with VADER.
-
